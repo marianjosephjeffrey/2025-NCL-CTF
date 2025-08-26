@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ncl.png" style="border-radius: 12px; alt="NCL Spring 2025 Banner" width="600"/>
+  <img src="National_Cyber_League.jpg" style="border-radius: 12px; alt="NCL Spring 2025 Banner" width="600"/>
 </p>
 
 <h1 align="center">🛡️ NCL Spring 2025 Individual Game</h1>
@@ -61,7 +61,7 @@ I participated in the **National Cyber League Spring 2025 Individual CTF**, comp
 
 <details>
   <summary>🏅 Leaderboard Rank</summary>
-  <img src="Spring2025 Rank.png" style="border-radius: 12px; width="600"/>
+  <img src="Spring2025Rank.png" style="border-radius: 12px; width="600"/>
 </details>
 
 ---
