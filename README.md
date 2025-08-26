@@ -6,7 +6,7 @@
 <h3 align="center">National Cyber League Capture the Flag | Spring 2025</h3>
 
 <p align="center">
-  🗓️ Spring 2025 &nbsp; | &nbsp; 🧠 Cyber Defense | Penetration Testing | Threat Analysis &nbsp; | &nbsp; 🏆 Top % (to be updated once final rank is published)
+  🗓️ Spring 2025 &nbsp; | &nbsp; 🧠 Cyber Defense | Penetration Testing | Threat Analysis &nbsp; | &nbsp; 🏆 Top 11%
 </p>
 
 ---
